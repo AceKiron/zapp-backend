@@ -1,3 +1,6 @@
 env/
-zapp/zapp/__pycache__/
-zapp/base/__pycache__/
+
+zapp/db.sqlite3
+
+# **/__pycache__/ means any and all __pycache__ folders, rather it's in the root directory or nested somewhere else.
+**/__pycache__/
